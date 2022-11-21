@@ -3,10 +3,12 @@ output: .retype
 url: docs.futsnipingbot.com
 
 branding:
-  title: FUT Sniping
   logo: static/logo.svg
   logoDark: static/logo-dark.svg
   label: v4.1
+
+meta:
+  title: " | Example.com - Widgets for the internet"
 
 favicon: favicon.ico
 
