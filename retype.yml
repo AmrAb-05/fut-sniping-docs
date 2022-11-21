@@ -1,0 +1,36 @@
+input: ./
+output: .retype
+url: docs.futsnipingbot.com
+
+branding:
+  logo: /static/logo.svg
+  logoDark: /static/logo-dark.svg
+  label: v4.1
+
+links:
+  - text: Home
+    link: https://futsnipingbot.com
+    icon: home
+
+  - text: Buy Now
+    link: https://futsnipingbot.com/checkout
+    icon: star
+
+  - text: Free Trial
+    link: https://futsnipingbot.com/trial-signup
+    icon: rocket
+
+  - text: Download
+    link: https://futsnipingbot.com/download
+    icon: download
+    target: blank
+
+footer:
+  copyright: © Copyright {{ year }} – [FUT Sniping](https://futsnipingbot.com/) – All rights reserved
+  links:
+    - text: Contact Us
+      link: contact.md
+      icon: megaphone
+    - text: Terms
+      link: https://futsnipingbot.com/page/terms
+      icon: shield-check
