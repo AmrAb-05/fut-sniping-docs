@@ -3,6 +3,7 @@ output: .retype
 url: docs.futsnipingbot.com
 
 branding:
+  title: 
   logo: static/logo.svg
   logoDark: static/logo-dark.svg
   label: v4.1
