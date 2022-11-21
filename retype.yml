@@ -10,7 +10,7 @@ branding:
 meta:
   title: " | Example.com - Widgets for the internet"
 
-favicon: favicon.ico
+favicon: static/favicon.ico
 
 links:
   - text: Home
