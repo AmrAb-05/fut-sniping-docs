@@ -1,6 +1,6 @@
 ---
 icon: question
-label: FAQs
+label: FAQ
 ---
 
 # Frequently Asked Questions
