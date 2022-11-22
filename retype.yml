@@ -8,9 +8,6 @@ branding:
   logoDark: static/logo-dark.svg
   label: v4.1
 
-meta:
-  title: " | Example.com - Widgets for the internet"
-
 favicon: static/favicon.ico
 
 links:
