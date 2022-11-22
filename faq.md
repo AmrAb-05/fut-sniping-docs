@@ -17,7 +17,10 @@ You will not be able to use a free trial more than once.
 
 Installing the Sniping Bot is super simple and takes only a few seconds.
 ### Step 1: Create Sniping Bot account
-You will first need a Sniping Bot account. Remember that the Sniping Bot account is NOT the same account you use to login to the website. You should receive instructions on how to create the Sniping Bot account in the email you receive after purchase.
+You will first need a Sniping Bot account. You should receive instructions on how to create the Sniping Bot account in the email you receive after purchase.
+!!!warning Warning
+Remember that the Sniping Bot account is NOT the same account you use to login to the website.
+!!!
 ### Step 2: Download
 Download the Chrome Extension from the Chrome Web Store by click [here](https://futsnipingbot.com/download). After it has been downloaded, click its icon which should be found in the corner of your browser, as shown in the image below:
 
