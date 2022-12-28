@@ -1,1 +1,4 @@
-
+---
+icon: star
+label: Premium
+---
