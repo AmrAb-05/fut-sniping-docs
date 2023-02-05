@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.728919247884">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.4.0.728933808717">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.4.0">
@@ -31,11 +31,11 @@
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="../../static/favicon.ico" rel="icon" />
-    <link href="../../resources/css/retype.css?v=2.4.0.728919247884" rel="stylesheet" />
+    <link href="../../resources/css/retype.css?v=2.4.0.728933808717" rel="stylesheet" />
 
-    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.728919247884" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.728933808717" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../../resources/js/retype.js?v=2.4.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.728919247884" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.728933808717" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -301,6 +301,59 @@
 </doc-anchor-target>
 <p>Mass listing too many players in a short period of time may result in a soft ban.</p>
 <p>If you want to list a large number of players, don&#x27;t list them all at once. List them in batches.</p>
+<doc-anchor-target id="which-settings-should-i-use-to-avoid-soft-bans">
+    <h2>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#which-settings-should-i-use-to-avoid-soft-bans">#</doc-anchor-trigger>
+        <span>Which settings should I use to avoid soft bans?</span>
+    </h2>
+</doc-anchor-target>
+<p>These are the default settings we recommend for optimal usage:</p>
+<p><figure class="content-center">
+    <img src="/static/settings.png" alt="" />
+    <figcaption class="caption"></figcaption>
+</figure>
+</p>
+<p>However, if you would like to adjust specific settings according to your preference, use the information below.</p>
+<doc-anchor-target id="delay-settings">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#delay-settings">#</doc-anchor-trigger>
+        <span>Delay Settings</span>
+    </h3>
+</doc-anchor-target>
+<p>Using a range for <code v-pre>Delay Time</code> like <code v-pre>3-5</code> as the delay makes it appear as though a human is searching, as it uses a random delay between those 2 numbers.</p>
+<p>Increasing <code v-pre>Delay Time</code> will reduce the number of searches within a period of time, hence reducing the risk of a soft ban.</p>
+<doc-anchor-target id="break-settings">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#break-settings">#</doc-anchor-trigger>
+        <span>Break Settings</span>
+    </h3>
+</doc-anchor-target>
+<p>Decreasing the <code v-pre>Searches Between Breaks</code> will make the bot take breaks more frequently.</p>
+<p>Increasing the <code v-pre>Break Duration</code> will make the bot take longer breaks.</p>
+<p>These 2 options reduce the risk of getting soft banned and are highly recommended.</p>
+<doc-anchor-target id="rest-settings">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#rest-settings">#</doc-anchor-trigger>
+        <span>Rest Settings</span>
+    </h3>
+</doc-anchor-target>
+<p>Decreasing the <code v-pre>Minutes Before Rest</code> will make the bot rest more frequently.</p>
+<p>Increasing the <code v-pre>Rest Duration</code> will make the bot take longer rests.</p>
+<p>These 2 options can significantly reduce the liklihood of getting soft banned.</p>
+<doc-anchor-target id="limit-settings">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#limit-settings">#</doc-anchor-trigger>
+        <span>Limit Settings</span>
+    </h3>
+</doc-anchor-target>
+<p>Decreasing <code v-pre>Max Purchases Per Search</code> can really help to avoid Buy Softbans and improve success rate. If you are using a competitive filter, i.e it has a low success rate, this can be very useful to improve your success rate. It would also work well with the setting below.</p>
+<doc-anchor-target id="advanced-settings">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#advanced-settings">#</doc-anchor-trigger>
+        <span>Advanced Settings</span>
+    </h3>
+</doc-anchor-target>
+<p>You can make the bot only buy the newest players, so that you are more likely get successful purchases, and hence make the most out of your time before getting soft banned. You can do this by going to <code v-pre>Advanced Settings</code> -&gt; <code v-pre>General</code> -&gt; <code v-pre>Chose which items to prioritise when buying</code> and setting it to <strong>Newest</strong>.</p>
 
                                 
                                 <!-- Required only on API pages -->
