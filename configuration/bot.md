@@ -65,7 +65,23 @@ The length of the breaks that the bot will take (in seconds).
 
 The following settings allow you to make the bot take a period of rest after a certain amount of minutes.
 
-The purpose of this is to avoid getting [soft banned](/guides/soft-bans).
+The purpose of using these settings is to avoid getting [soft banned](/guides/soft-bans).
+
+### Minutes Before Rest
+
+This is the number of minutes that the bot will wait before taking rests.
+
+There are 2 ways to set this:
+- You can either set a range like `20-30` and the bot will take rests after a random duration within the range
+- Or you can set a fixed number of minutes like `30`
+
+### Rest Duration
+
+The length of the rests that the bot will take (in minutes).
+
+There are 2 ways to set this:
+- You can either set a range like `15-20` and the bot will take rests for a random duration within the range
+- Or you can set a fixed number of minutes like `20`
 
 
 ## Advanced Settings
