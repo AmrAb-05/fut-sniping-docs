@@ -51,7 +51,21 @@ If there are multiple purchases to be made within the same search, the first pur
 
 ## Break Settings
 
+The following settings allow you set breaks after a certain amount of searches.
+
 ### Searches Between Breaks
+
+This is the number of searches that the bot will perform between taking breaks.
+
+### Break Duration
+
+The length of the breaks that the bot will take (in seconds).
+
+## Rest Settings
+
+The following settings allow you to make the bot take a period of rest after a certain amount of minutes.
+
+The purpose of this is to avoid getting [soft banned](/guides/soft-bans).
 
 
 ## Advanced Settings

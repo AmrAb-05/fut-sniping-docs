@@ -25,7 +25,7 @@ A soft ban could last anywhere between 5 minutes and 24 hours - it’s completel
 ### Search Softban
 Avoid sniping for long periods of time.
 
-Use a high delay time. The recommended is `3-5`.
+Use a higher delay time. The recommended is `3-5`. A high delay time might reduce your success rate, so it's important to find the right balance.
 
 Take a break every 1000 searches and play a game of FIFA.
 
