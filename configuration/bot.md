@@ -49,7 +49,9 @@ This is the number of milliseconds (1000 milliseconds = 1 second) that the bot w
 
 If there are multiple purchases to be made within the same search, the first purchase will always be made immediately with no delay.
 
+## Break Settings
 
+### Searches Between Breaks
 
 
 ## Advanced Settings
