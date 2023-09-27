@@ -1,5 +1,6 @@
 ---
 icon: server
+visibility: hidden
 ---
 
 # VPS Setup
