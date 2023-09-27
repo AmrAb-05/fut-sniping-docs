@@ -5,6 +5,7 @@ icon: graph
 # Make More Profit
 
 When it comes to how much profit you're going to make using the Sniping Bot, it comes down to 2 things:
+
 1. [How profitable your sniping filter is](#finding-a-profitable-filter)
 1. [How optimal your Sniping Bot settings are](#)
 
