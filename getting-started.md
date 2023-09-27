@@ -15,6 +15,14 @@ Installing the Sniping Bot is super simple and takes only a few minutes.
 - Google Chrome
 - EA account with unlocked FUT Transfer Market
 
+### You can watch the following video, or follow the written instructions below
+
+## Video Tutorial
+
+[!embed](https://www.youtube.com/embed/FIjDsoT1dk4?si=3Jl64gYDWJ-wzRTF)
+
+## Written Instructions
+
 ### Step 1: Create Sniping Bot account
 You will first need a Sniping Bot account. You should receive instructions on how to create the Sniping Bot account in the email you receive after purchase, along with a serial key. You can use your serial key to create a Sniping Bot account here:
 
