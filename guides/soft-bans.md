@@ -47,7 +47,7 @@ If you want to list a large number of players, don't list them all at once. List
 
 These are the default settings we recommend for optimal usage:
 
-![](/static/settings.png)
+![](/static/settings.png){ style="border-radius: .5rem;" }
 
 However, if you would like to adjust specific settings according to your preference, use the information below.
 
