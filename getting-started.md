@@ -20,7 +20,7 @@ Installing the Sniping Bot is super simple and takes only a few minutes.
 ## Video Tutorial
 
 [!embed](https://www.youtube.com/embed/FIjDsoT1dk4?si=3Jl64gYDWJ-wzRTF)
-
+#
 ## Written Instructions
 
 ### Step 1: Create Sniping Bot account
