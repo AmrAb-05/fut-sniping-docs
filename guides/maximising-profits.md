@@ -11,6 +11,6 @@ When it comes to how much profit you're going to make using the Sniping Bot, it 
 
 In this guide, we'll explain everything you need to know to overcome these 2 issues.
 
-## 1. Finding a profitable filter
+## Finding a profitable filter
 
 Having a profitable filter is crucial, as it is the main determinant of the amount of coins you're making. 
