@@ -34,7 +34,7 @@ Remember that the Sniping Bot account is NOT the same account you use to login t
 
 If you can't find your serial key in your email, then you can find it under your purchased on our website.
 
-[!button variant="info" text=":🛍️: Go to Purchases" href="https://futsnipingbot.com/purchases" target="blank"]
+[!button variant="info" icon="tag" text="Go to Purchases" href="https://futsnipingbot.com/purchases" target="blank"]
 
 ### Step 2: Download
 Download the Chrome Extension from the Chrome Web Store by click [here](https://futsnipingbot.com/download). After it has been downloaded, click on its icon which can be found in the top-right corner of your browser, as shown in the image below:
