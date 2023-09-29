@@ -5,6 +5,10 @@ label: FAQ
 
 # Questions & Answers
 
+!!!
+For FAQs about any issues you have, go to [Troubleshooting](/troubleshooting).
+!!!
+
 1. [How do I install the Sniping Bot?](#how-do-i-install-the-sniping-bot)
 1. [Can I use the Sniping Bot on more than 1 device or EA account?](#can-i-use-the-sniping-bot-on-more-than-1-device-or-ea-account)
 1. [Can you get banned?](#can-you-get-banned)
