@@ -22,6 +22,8 @@ For FAQs about any issues you have, go to [Troubleshooting](/troubleshooting).
 
 Please see our [Getting Started](/getting-started) guide for detailed installation instructions.
 
+# 
+
 ## Can I use the Sniping Bot on more than 1 device or EA account?
 
 For each Sniping Bot account, there are 2 rules when it comes to using the Bot with multiple devices or EA accounts:
