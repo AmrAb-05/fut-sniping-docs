@@ -15,6 +15,8 @@ The vast majority of the time, this issue is caused by an SSL certificate issue 
 ### The bot doesn't find anything, no matter what price I put
 If you're constantly getting `Found 0 items`, even though it's supposed to display results, try clicking the `Reset` button (near the `Search` button), then input your filter again.
 
+---
+
 ### I keep getting Buy Failed
 The 2 most common reasons for this is that either:
 1. Your settings need to be adjusted. Follow [this guide](/guides/maximising-profits) for help with optimising your settings.
