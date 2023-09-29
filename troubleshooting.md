@@ -22,5 +22,7 @@ The 2 most common reasons for this is that either:
 1. Your settings need to be adjusted. Follow [this guide](/guides/maximising-profits) for help with optimising your settings.
 2. You are soft banned. You can read more about soft bans [here](/guides/soft-bans.)
 
+---
+
 ### I keep getting Search Failed
 Read about [Soft Bans](/guides/soft-bans).
