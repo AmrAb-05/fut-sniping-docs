@@ -21,7 +21,6 @@ For FAQs about any issues you have, go to [Troubleshooting](/troubleshooting).
 ## How do I install the Sniping Bot?
 
 Please see our [Getting Started](/getting-started) guide for detailed installation instructions.
-# 
 
 ## Can I use the Sniping Bot on more than 1 device or EA account?
 
