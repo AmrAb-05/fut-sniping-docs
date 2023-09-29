@@ -21,7 +21,8 @@ For FAQs about any issues you have, go to [Troubleshooting](/troubleshooting).
 ## How do I install the Sniping Bot?
 
 Please see our [Getting Started](/getting-started) guide for detailed installation instructions.
-#
+
+---
 
 ## Can I use the Sniping Bot on more than 1 device or EA account?
 
@@ -34,12 +35,14 @@ If you have 2 different devices, 1 at home and 1 at work. You want to use them b
 
 **Example 2:**
 You want to share your Sniping Bot account with your friend. He has his own laptop and own EA account, so __this will not work. Your friend will need to buy his own license.__
-#
+
+---
 
 ## Can you get banned?
 
-Sn
-#
+With the great reward that comes with using this Sniping Bot, there also comes a tiny risk of getting banned, as sniping bots do not respect the rules of the game. The most common consequence is a ban from using the Transfer Market, only on the FUT Web App and Companion App for the current FIFA title, where you would still be able to use the in-game transfer market. These risks can be minimized by following our recommendations.
+
+---
 
 ## Is there a free trial?
 
