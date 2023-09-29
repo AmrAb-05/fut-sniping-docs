@@ -17,6 +17,7 @@ For FAQs about any issues you have, go to [Troubleshooting](/troubleshooting).
 1. [Can you get banned?](#can-you-get-banned)
 1. [Is there a free trial?](#is-there-a-free-trial)
 
+---
 
 ## How do I install the Sniping Bot?
 
