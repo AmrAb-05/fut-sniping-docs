@@ -46,6 +46,12 @@ With the great reward that comes with using this Sniping Bot, there also comes a
 
 ---
 
+## How do I avoid getting banned?
+
+//
+
+---
+
 ## Is there a free trial?
 
 Yes, we offer free trials with full account access.
