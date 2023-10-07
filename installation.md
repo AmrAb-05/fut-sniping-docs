@@ -3,13 +3,10 @@ order: 2000
 icon: rocket
 ---
 
-# Getting Started
+# Installation
 
-Getting started with FUT Sniping Bot is super easy and you can be up and running within minutes.
+Installing the FUT Sniping Bot is super easy and can be set up in just a few miutes.
 
-## Installation
-
-Installing the Sniping Bot is super simple and takes only a few minutes.
 #### Requirements:
 - PC, laptop or Mac
 - Google Chrome
