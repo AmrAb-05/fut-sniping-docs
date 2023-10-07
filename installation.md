@@ -29,7 +29,7 @@ You will first need a Sniping Bot account. You should receive instructions on ho
 Remember that the Sniping Bot account is NOT the same account you use to login to the website. It is a separate account that you need to create **after** purchasing.
 !!!
 
-If you can't find your serial key in your email, then you can find it under your purchased on our website.
+If you can't find your serial key in your email, then you can find it under your purchases on our website.
 
 [!button variant="info" icon="tag" text="Go to Purchases" href="https://futsnipingbot.com/purchases" target="blank"]
 
