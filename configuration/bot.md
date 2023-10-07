@@ -33,6 +33,8 @@ If your Transfer List is full, it will be send to your Unassigned Pile instead
 
 #### Send to Club
 
+---
+
 ## Delay Settings
 
 ### Search Delay Time
