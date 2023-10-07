@@ -51,6 +51,8 @@ This is the number of milliseconds (1000 milliseconds = 1 second) that the bot w
 
 If there are multiple purchases to be made within the same search, the first purchase will always be made immediately with no delay.
 
+---
+
 ## Break Settings
 
 The following settings allow you set breaks after a certain amount of searches.
@@ -62,6 +64,8 @@ This is the number of searches that the bot will perform between taking breaks.
 ### Break Duration
 
 The length of the breaks that the bot will take (in seconds).
+
+---
 
 ## Rest Settings
 
@@ -84,6 +88,8 @@ The length of the rests that the bot will take (in minutes).
 There are 2 ways to set this:
 - You can either set a range like `15-20` and the bot will take rests for a random duration within the range
 - Or you can set a fixed number of minutes like `20`
+
+---
 
 
 ## Advanced Settings
