@@ -20,10 +20,10 @@ links:
     icon: star
     target: blank
 
-  - text: Free Trial
-    link: https://futsnipingbot.com/trial-signup
-    icon: rocket
-    target: blank
+  # - text: Free Trial
+  #   link: https://futsnipingbot.com/trial-signup
+  #   icon: rocket
+  #   target: blank
 
   - text: Download
     link: https://futsnipingbot.com/download
